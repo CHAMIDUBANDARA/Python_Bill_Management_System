@@ -63,7 +63,7 @@ Enter item quantity: 2
 Enter item discount percentage: 10
 Item added successfully.
 
-Enter your choice (1-5): 3
+#Enter your choice (1-5): 3
 Total: 10.78
 
 Enter your choice (1-5): 4
